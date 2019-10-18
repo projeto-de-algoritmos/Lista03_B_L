@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Implemetacao interval Partitioning
+
 int main(int argc, char ** argv){
     int numero_aulas, buffer;
     cout << "Digite o numero de aulas: " << endl;
